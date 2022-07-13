@@ -1,0 +1,106 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-family: 'Inter', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+h2{
+    font-family: 'Inter', sans-serif;  
+}
+.para{
+    font-family: 'Poppins', sans-serif;
+    color: antiquewhite;
+}
+.one{
+    padding-top: 50px;
+    padding-bottom: 250px;
+    padding-left: 50px;
+    padding-right: 1000px;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.link{
+    text-decoration: none;
+    color: black;
+    background-color: orange;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.div-1{
+    text-align: center;
+    padding: 0% 30%;
+    margin-top: 8%;
+}
+.div-2{
+    display: flex;
+}
+#taka-1{
+    padding: 3% 1%;
+    background-color: aqua;
+    margin-left: 34%;
+}
+#taka-2{
+    padding: 3% 1%;
+    background-color: brown;
+    margin: 0% 1%;
+}
+#taka-3{
+    padding: 3% 1%;
+    background-color: rgb(240, 182, 102);
+    margin: 0% 1%;
+}
+#taka-4{
+    padding: 3% 1%;
+    background-color: rgb(230, 44, 217);
+    margin: 0% 1%;
+}
+#taka-5{
+    padding: 3% 1%;
+    background-color: rgb(197, 226, 78);
+    margin-right: 34%;
+}
+.div-3{
+    text-align: center;
+    margin: 0% 20%;
+}
+.div-4{
+    text-align: center;
+    padding: 0% 30%;
+    margin-top: 8%;
+}
+.two{
+    display: flex;
+    box-shadow: 0px 0px 0px gray;
+    margin-top: 8%;
+}
+#first{
+    padding: 2% 1%;
+    background-color: aquamarine;
+    margin-left: 4%;
+    margin-right: 1%;
+}
+#second{
+    padding: 2% 1%;
+    background-color: rgb(153, 255, 127);
+    margin-left: 1%;
+    margin-right: 1%;
+}
+#third{
+    padding: 2% 1%;
+    background-color: rgb(255, 127, 144);
+    margin-left: 1%;
+    margin-right: 4%;
+}
+.last{
+    display: flex;
+    margin-top: 8%;
+    margin-right: 5%;
+}
+.div-6{
+    padding-right: 10%;
+    padding-left: 5%;
+}
